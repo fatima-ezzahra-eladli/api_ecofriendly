@@ -431,5 +431,973 @@
         "details": "A set of eco-friendly wooden toy cars, designed for endless hours of play.",
         "image": "http://127.0.0.1:5000/images/wooden_toy_car_set.jpg",
         "best_seller": true
+    },
+    {
+        "name": "Bamboo Cutting Board Set",
+        "category": "Kitchen",
+        "price": "$24.99",
+        "details": "Eco-friendly bamboo cutting boards, durable and naturally antibacterial. Set of 3 sizes.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Bamboo_Cutting_Board_Set.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Reusable Silicone Food Storage Bags",
+        "category": "Kitchen",
+        "price": "$19.99",
+        "details": "Set of 5 reusable silicone bags, BPA-free, dishwasher safe, and perfect for reducing plastic waste.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Reusable_Silicone_Food_Storage_Bags.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Glass Meal Prep Containers",
+        "category": "Kitchen",
+        "price": "$32.99",
+        "details": "Set of 10 glass containers with bamboo lids. Perfect for meal prepping and eco-friendly storage.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Glass_Meal_Prep_Containers.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Stainless Steel Straws Set",
+        "category": "Kitchen",
+        "price": "$9.99",
+        "details": "Set of 8 reusable stainless steel straws with cleaning brushes and a carry pouch.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Stainless_Steel_Straws_Set.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Compostable Trash Bags",
+        "category": "Kitchen",
+        "price": "$14.99",
+        "details": "100% compostable trash bags, made from plant-based materials. Pack of 50.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Compostable_Trash_Bags.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Eco-Friendly Dish Soap Block",
+        "category": "Kitchen",
+        "price": "$12.50",
+        "details": "Plastic-free, zero-waste dish soap block. Cuts through grease effectively.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Eco-Friendly_Dish_Soap_Block.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Bamboo Dish Drying Rack",
+        "category": "Kitchen",
+        "price": "$29.99",
+        "details": "Foldable bamboo dish drying rack. Eco-friendly and sturdy design.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Bamboo_Dish_Drying_Rack.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Reusable Beeswax Food Wraps",
+        "category": "Kitchen",
+        "price": "$17.99",
+        "details": "Set of 6 beeswax wraps. Perfect for wrapping food and keeping it fresh naturally.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Reusable_Beeswax_Food_Wraps.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Natural Coconut Scrub Brushes",
+        "category": "Kitchen",
+        "price": "$15.99",
+        "details": "Set of 3 coconut fiber scrub brushes. Eco-friendly and durable for cleaning dishes.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Natural_Coconut_Scrub_Brushes.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Bamboo Utensil Set",
+        "category": "Kitchen",
+        "price": "$14.99",
+        "details": "Set of 6 bamboo utensils, including spoons, spatulas, and a storage holder.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Bamboo_Utensil_Set.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Recycled Paper Towels",
+        "category": "Kitchen",
+        "price": "$22.99",
+        "details": "12 rolls of 100% recycled paper towels. Eco-friendly and absorbent.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Recycled_Paper_Towels.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Stainless Steel Lunch Box",
+        "category": "Kitchen",
+        "price": "$28.50",
+        "details": "Leak-proof, durable stainless steel lunch box. Perfect for eco-friendly meal packing.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Stainless_Steel_Lunch_Box.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Glass Water Bottle with Bamboo Lid",
+        "category": "Kitchen",
+        "price": "$19.99",
+        "details": "Eco-friendly glass water bottle with a bamboo lid. BPA-free and dishwasher safe.",
+        "image": "http://127.0.0.1:5000/images/kitchen/Glass_Water_Bottle_with_Bamboo_Lid.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Fertilizer",
+        "category": "Garden",
+        "price": "$14.99",
+        "details": "Plant-based fertilizer that nourishes plants while being safe for the environment.",
+        "image": "http://127.0.0.1:5000/images/garden/Organic_Fertilizer.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Compostable Plant Pots",
+        "category": "Garden",
+        "price": "$9.99",
+        "details": "Eco-friendly compostable plant pots that decompose naturally when planted.",
+        "image": "http://127.0.0.1:5000/images/garden/Compostable_Plant_Pots.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Solar Garden Lights",
+        "category": "Garden",
+        "price": "$19.99",
+        "details": "Sustainable solar-powered lights that illuminate your garden without electricity.",
+        "image": "http://127.0.0.1:5000/images/garden/Solar_Garden_Lights.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Rainwater Harvesting Kit",
+        "category": "Garden",
+        "price": "$49.99",
+        "details": "Eco-friendly kit for collecting and using rainwater for irrigation, reducing water usage.",
+        "image": "http://127.0.0.1:5000/images/garden/Rainwater_Harvesting_Kit.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Recycled Plastic Garden Fence",
+        "category": "Garden",
+        "price": "$39.99",
+        "details": "Durable garden fence made from 100% recycled plastic, perfect for garden boundaries.",
+        "image": "http://127.0.0.1:5000/images/garden/Recycled_Plastic_Garden_Fence.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Biodegradable Garden Mulch",
+        "category": "Garden",
+        "price": "$17.99",
+        "details": "Natural mulch made from biodegradable materials, helping conserve moisture and suppress weeds.",
+        "image": "http://127.0.0.1:5000/images/garden/Biodegradable_Garden_Mulch.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Hemp Garden Twine",
+        "category": "Garden",
+        "price": "$8.99",
+        "details": "Strong and eco-friendly twine made from hemp, perfect for tying plants in your garden.",
+        "image": "http://127.0.0.1:5000/images/garden/Hemp_Garden_Twine.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Herb Seeds Kit",
+        "category": "Garden",
+        "price": "$24.99",
+        "details": "A complete kit of organic herb seeds to start your sustainable garden.",
+        "image": "http://127.0.0.1:5000/images/garden/Organic_Herb_Seeds_Kit.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Recycled Rubber Garden Pathway",
+        "category": "Garden",
+        "price": "$29.99",
+        "details": "Eco-friendly garden pathway made from recycled rubber, durable and easy to install.",
+        "image": "http://127.0.0.1:5000/images/garden/Recycled_Rubber_Garden_Pathway.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Bamboo Garden Stakes",
+        "category": "Garden",
+        "price": "$12.99",
+        "details": "Sustainable bamboo stakes for supporting plants and maintaining a healthy garden.",
+        "image": "http://127.0.0.1:5000/images/garden/Bamboo_Garden_Stakes.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Natural Pest Control Spray",
+        "category": "Garden",
+        "price": "$15.99",
+        "details": "Non-toxic, natural pest control spray made from plant-based ingredients.",
+        "image": "http://127.0.0.1:5000/images/garden/Natural_Pest_Control_Spray.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Eco-Friendly Lawn Mower",
+        "category": "Garden",
+        "price": "$229.99",
+        "details": "Electric lawn mower that reduces carbon emissions and runs quietly.",
+        "image": "http://127.0.0.1:5000/images/garden/Eco-Friendly_Lawn_Mower.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Vegetable Garden Kit",
+        "category": "Garden",
+        "price": "$34.99",
+        "details": "All-in-one organic vegetable garden kit for growing fresh produce at home.",
+        "image": "http://127.0.0.1:5000/images/garden/Organic_Vegetable_Garden_Kit.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Upcycled Glass Garden Vase",
+        "category": "Garden",
+        "price": "$19.99",
+        "details": "Handmade garden vase made from upcycled glass, perfect for holding fresh flowers.",
+        "image": "http://127.0.0.1:5000/images/garden/Upcycled_Glass_Garden_Vase.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Solar-Powered Water Fountain",
+        "category": "Garden",
+        "price": "$59.99",
+        "details": "Solar-powered water fountain, perfect for adding ambiance and attracting wildlife.",
+        "image": "http://127.0.0.1:5000/images/garden/Solar-Powered_Water_Fountain.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Plant-Based Compost",
+        "category": "Garden",
+        "price": "$22.99",
+        "details": "100% plant-based compost that enriches soil and promotes plant growth.",
+        "image": "http://127.0.0.1:5000/images/garden/Plant-Based_Compost.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Eco-Friendly Greenhouse",
+        "category": "Garden",
+        "price": "$179.99",
+        "details": "Portable greenhouse made from sustainable materials for growing plants year-round.",
+        "image": "http://127.0.0.1:5000/images/garden/Eco-Friendly_Greenhouse.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Bamboo Compost Bin",
+        "category": "Garden",
+        "price": "$39.99",
+        "details": "Sustainable bamboo compost bin for efficiently turning kitchen scraps into nutrient-rich compost.",
+        "image": "http://127.0.0.1:5000/images/garden/Bamboo_Compost_Bin.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Natural Grass Seed Mix",
+        "category": "Garden",
+        "price": "$12.99",
+        "details": "Eco-friendly grass seed mix, perfect for creating a lush and green lawn with less water.",
+        "image": "http://127.0.0.1:5000/images/garden/Natural_Grass_Seed_Mix.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Plastic Garden Furniture",
+        "category": "Garden",
+        "price": "$199.99",
+        "details": "Eco-friendly outdoor furniture made from recycled plastic, offering long-lasting durability.",
+        "image": "http://127.0.0.1:5000/images/garden/Recycled_Plastic_Garden_Furniture.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Wildflower Seed Bombs",
+        "category": "Garden",
+        "price": "$9.99",
+        "details": "Natural seed bombs containing wildflower seeds, perfect for creating eco-friendly gardens.",
+        "image": "http://127.0.0.1:5000/images/garden/Wildflower_Seed_Bombs.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Bamboo Watering Can",
+        "category": "Garden",
+        "price": "$14.99",
+        "details": "Eco-friendly watering can made from bamboo, providing an easy and sustainable way to water your plants.",
+        "image": "http://127.0.0.1:5000/images/garden/Bamboo_Watering_Can.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Eco-Friendly Garden Sprayer",
+        "category": "Garden",
+        "price": "$18.99",
+        "details": "Sustainable garden sprayer made from recycled plastic, ideal for natural pest control and watering.",
+        "image": "http://127.0.0.1:5000/images/garden/Eco-Friendly_Garden_Sprayer.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Eco-Friendly Garden Kneeling Pad",
+        "category": "Garden",
+        "price": "$12.99",
+        "details": "Comfortable kneeling pad made from recycled materials to protect your knees while gardening.",
+        "image": "http://127.0.0.1:5000/images/garden/Eco-Friendly_Garden_Kneeling_Pad.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Sustainable Garden Hose",
+        "category": "Garden",
+        "price": "$29.99",
+        "details": "Durable garden hose made from recycled materials, designed for long-lasting use.",
+        "image": "http://127.0.0.1:5000/images/garden/Sustainable_Garden_Hose.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Bee-Friendly Wildflower Seed Pack",
+        "category": "Garden",
+        "price": "$11.99",
+        "details": "A collection of wildflower seeds that are perfect for attracting and supporting pollinators.",
+        "image": "http://127.0.0.1:5000/images/garden/Bee-Friendly_Wildflower_Seed_Pack.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Eco-Friendly Garden Rake",
+        "category": "Garden",
+        "price": "$18.99",
+        "details": "Garden rake made from sustainable materials, designed for a more eco-conscious gardening experience.",
+        "image": "http://127.0.0.1:5000/images/garden/Eco-Friendly_Garden_Rake.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Recycled Plastic Outdoor Storage Box",
+        "category": "Garden",
+        "price": "$49.99",
+        "details": "Outdoor storage box made from recycled plastic, perfect for keeping your garden tools organized.",
+        "image": "http://127.0.0.1:5000/images/garden/Recycled_Plastic_Outdoor_Storage_Box.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Natural Organic Lawn Care Kit",
+        "category": "Garden",
+        "price": "$39.99",
+        "details": "Complete organic lawn care kit, designed for maintaining a healthy and sustainable lawn.",
+        "image": "http://127.0.0.1:5000/images/garden/Natural_Organic_Lawn_Care_Kit.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Recycled Plastic Watering Can",
+        "category": "Garden",
+        "price": "$19.99",
+        "details": "Eco-friendly watering can made from recycled plastic, perfect for watering your plants efficiently.",
+        "image": "http://127.0.0.1:5000/images/garden/Recycled_Plastic_Watering_Can.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Eco-Friendly Garden Scissors",
+        "category": "Garden",
+        "price": "$14.99",
+        "details": "Sharp and durable garden scissors made from sustainable materials for precision pruning.",
+        "image": "http://127.0.0.1:5000/images/garden/Eco-Friendly_Garden_Scissors.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Natural Mulching Mat",
+        "category": "Garden",
+        "price": "$16.99",
+        "details": "Biodegradable mulching mat made from natural fibers to help conserve moisture in the soil.",
+        "image": "http://127.0.0.1:5000/images/garden/Natural_Mulching_Mat.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Upcycled Tire Garden Planter",
+        "category": "Garden",
+        "price": "$24.99",
+        "details": "Unique garden planter made from upcycled tires, adding a touch of creativity to your garden.",
+        "image": "http://127.0.0.1:5000/images/garden/Upcycled_Tire_Garden_Planter.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Garden Seedling Tray",
+        "category": "Garden",
+        "price": "$11.99",
+        "details": "Seedling tray made from organic, biodegradable materials, perfect for starting your garden from seeds.",
+        "image": "http://127.0.0.1:5000/images/garden/Organic_Garden_Seedling_Tray.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Compostable Garden Labels",
+        "category": "Garden",
+        "price": "$7.99",
+        "details": "Eco-friendly garden labels made from compostable materials to label your plants sustainably.",
+        "image": "http://127.0.0.1:5000/images/garden/Compostable_Garden_Labels.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Sustainable Garden Sprayer",
+        "category": "Garden",
+        "price": "$21.99",
+        "details": "Garden sprayer made from recycled plastic, offering a sustainable solution for pest control.",
+        "image": "http://127.0.0.1:5000/images/garden/Sustainable_Garden_Sprayer.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Grass Seed Mix",
+        "category": "Garden",
+        "price": "$13.99",
+        "details": "A blend of organic grass seeds, perfect for creating a lush and eco-friendly lawn.",
+        "image": "http://127.0.0.1:5000/images/garden/Organic_Grass_Seed_Mix.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Biodegradable Weed Barrier Fabric",
+        "category": "Garden",
+        "price": "$18.99",
+        "details": "Weed barrier fabric made from biodegradable materials, ideal for weed control without harming the environment.",
+        "image": "http://127.0.0.1:5000/images/garden/Biodegradable_Weed_Barrier_Fabric.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Eco-Friendly Garden Watering System",
+        "category": "Garden",
+        "price": "$69.99",
+        "details": "Automated watering system that conserves water while ensuring your garden is properly hydrated.",
+        "image": "http://127.0.0.1:5000/images/garden/Eco-Friendly_Garden_Watering_System.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Sustainable Outdoor Planters",
+        "category": "Garden",
+        "price": "$27.99",
+        "details": "Outdoor planters made from sustainable materials, perfect for displaying your garden plants.",
+        "image": "http://127.0.0.1:5000/images/garden/Sustainable_Outdoor_Planters.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Glass Terrarium",
+        "category": "Garden",
+        "price": "$34.99",
+        "details": "Elegant terrarium made from recycled glass, perfect for creating a miniature eco-friendly garden.",
+        "image": "http://127.0.0.1:5000/images/garden/Recycled_Glass_Terrarium.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Upcycled Wood Garden Bench",
+        "category": "Garden",
+        "price": "$119.99",
+        "details": "Sturdy garden bench made from upcycled wood, offering a sustainable seating option for your garden.",
+        "image": "http://127.0.0.1:5000/images/garden/Upcycled_Wood_Garden_Bench.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Natural Plant Fertilizer",
+        "category": "Garden",
+        "price": "$22.99",
+        "details": "Organic fertilizer made from natural plant-based ingredients to nourish your garden.",
+        "image": "http://127.0.0.1:5000/images/garden/Natural_Plant_Fertilizer.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Solar-Powered Garden Pump",
+        "category": "Garden",
+        "price": "$39.99",
+        "details": "Eco-friendly solar-powered garden pump for water features, saving energy while enhancing your garden.",
+        "image": "http://127.0.0.1:5000/images/garden/Solar-Powered_Garden_Pump.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Wood Garden Swing",
+        "category": "Garden",
+        "price": "$159.99",
+        "details": "Garden swing made from recycled wood, perfect for relaxing in your eco-friendly garden.",
+        "image": "http://127.0.0.1:5000/images/garden/Recycled_Wood_Garden_Swing.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Compostable Garden Waste Bags",
+        "category": "Garden",
+        "price": "$12.99",
+        "details": "Compostable garden waste bags for collecting leaves and other organic matter.",
+        "image": "http://127.0.0.1:5000/images/garden/Compostable_Garden_Waste_Bags.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Plastic Raised Garden Bed",
+        "category": "Garden",
+        "price": "$79.99",
+        "details": "Raised garden bed made from recycled plastic, ideal for growing vegetables sustainably.",
+        "image": "http://127.0.0.1:5000/images/garden/Recycled_Plastic_Raised_Garden_Bed.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Cotton Bed Sheets",
+        "category": "Home",
+        "price": "$49.99",
+        "details": "Soft, breathable bed sheets made from organic cotton for a comfortable and eco-friendly sleep.",
+        "image": "http://127.0.0.1:5000/images/home/Organic_Cotton_Bed_Sheets.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Bamboo Toothbrush Holder",
+        "category": "Home",
+        "price": "$14.99",
+        "details": "Eco-friendly bamboo toothbrush holder that adds a touch of nature to your bathroom.",
+        "image": "http://127.0.0.1:5000/images/home/Bamboo_Toothbrush_Holder.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Glass Water Bottle",
+        "category": "Home",
+        "price": "$19.99",
+        "details": "Sustainable and stylish water bottle made from 100% recycled glass.",
+        "image": "http://127.0.0.1:5000/images/home/Recycled_Glass_Water_Bottle.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Cork Coasters Set",
+        "category": "Home",
+        "price": "$9.99",
+        "details": "Set of four cork coasters, made from sustainably sourced cork to protect your surfaces.",
+        "image": "http://127.0.0.1:5000/images/home/Cork_Coasters_Set.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Natural Bamboo Cutting Board",
+        "category": "Home",
+        "price": "$22.99",
+        "details": "Durable and eco-friendly bamboo cutting board perfect for all your kitchen needs.",
+        "image": "http://127.0.0.1:5000/images/home/Natural_Bamboo_Cutting_Board.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Soy Wax Candles",
+        "category": "Home",
+        "price": "$15.99",
+        "details": "Natural soy wax candles with a soothing fragrance that creates a calm, eco-friendly ambiance.",
+        "image": "http://127.0.0.1:5000/images/home/Soy_Wax_Candles.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Cotton Throw Blanket",
+        "category": "Home",
+        "price": "$34.99",
+        "details": "Cozy throw blanket made from 100% organic cotton, perfect for snuggling on cold evenings.",
+        "image": "http://127.0.0.1:5000/images/home/Organic_Cotton_Throw_Blanket.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Recycled Plastic Storage Bins",
+        "category": "Home",
+        "price": "$24.99",
+        "details": "Sustainable storage bins made from recycled plastic, perfect for organizing any room.",
+        "image": "http://127.0.0.1:5000/images/home/Recycled_Plastic_Storage_Bins.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Bamboo Dish Scrubber",
+        "category": "Home",
+        "price": "$6.99",
+        "details": "Eco-friendly dish scrubber made from bamboo fibers, perfect for cleaning without chemicals.",
+        "image": "http://127.0.0.1:5000/images/home/Bamboo_Dish_Scrubber.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Cotton Pillowcases",
+        "category": "Home",
+        "price": "$18.99",
+        "details": "Soft and breathable pillowcases made from 100% organic cotton for a natural sleep experience.",
+        "image": "http://127.0.0.1:5000/images/home/Organic_Cotton_Pillowcases.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Paper Notebooks",
+        "category": "Home",
+        "price": "$10.99",
+        "details": "Eco-friendly notebooks made from recycled paper, perfect for journaling or note-taking.",
+        "image": "http://127.0.0.1:5000/images/home/Recycled_Paper_Notebooks.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Bamboo Drawer Organizers",
+        "category": "Home",
+        "price": "$19.99",
+        "details": "Set of bamboo drawer organizers to keep your home tidy and organized in a sustainable way.",
+        "image": "http://127.0.0.1:5000/images/home/Bamboo_Drawer_Organizers.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Natural Linen Curtains",
+        "category": "Home",
+        "price": "$49.99",
+        "details": "Elegant and breathable curtains made from 100% natural linen to brighten your space.",
+        "image": "http://127.0.0.1:5000/images/home/Natural_Linen_Curtains.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Eco-Friendly Reusable Shopping Bags",
+        "category": "Home",
+        "price": "$8.99",
+        "details": "Set of five reusable shopping bags made from sustainable materials to reduce plastic waste.",
+        "image": "http://127.0.0.1:5000/images/home/Eco_Friendly_Reusable_Shopping_Bags.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Cotton Bath Towels",
+        "category": "Home",
+        "price": "$39.99",
+        "details": "Soft and absorbent bath towels made from organic cotton for a luxurious and eco-friendly experience.",
+        "image": "http://127.0.0.1:5000/images/home/Organic_Cotton_Bath_Towels.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Sustainable Bamboo Desk Lamp",
+        "category": "Home",
+        "price": "$34.99",
+        "details": "Modern bamboo desk lamp with energy-efficient LED lighting, perfect for a sustainable workspace.",
+        "image": "http://127.0.0.1:5000/images/home/Sustainable_Bamboo_Desk_Lamp.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Upcycled Denim Rugs",
+        "category": "Home",
+        "price": "$79.99",
+        "details": "Handcrafted rugs made from upcycled denim, combining sustainability with style for any room.",
+        "image": "http://127.0.0.1:5000/images/home/Upcycled_Denim_Rugs.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Cork Wall Tiles",
+        "category": "Home",
+        "price": "$49.99",
+        "details": "Eco-friendly cork wall tiles that add texture and sustainability to your home decor.",
+        "image": "http://127.0.0.1:5000/images/home/Cork_Wall_Tiles.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Glass Vases",
+        "category": "Home",
+        "price": "$29.99",
+        "details": "Stylish vases made from recycled glass, perfect for holding flowers or as a decor piece.",
+        "image": "http://127.0.0.1:5000/images/home/Recycled_Glass_Vases.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Sustainable Wool Throw",
+        "category": "Home",
+        "price": "$44.99",
+        "details": "Warm and cozy throw made from sustainable wool to keep you comfortable year-round.",
+        "image": "http://127.0.0.1:5000/images/home/Sustainable_Wool_Throw.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Natural Wood Picture Frames",
+        "category": "Home",
+        "price": "$18.99",
+        "details": "Simple yet elegant picture frames made from sustainably sourced wood.",
+        "image": "http://127.0.0.1:5000/images/home/Natural_Wood_Picture_Frames.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Eco-Friendly Laundry Detergent",
+        "category": "Home",
+        "price": "$12.99",
+        "details": "Plant-based laundry detergent that is tough on stains but gentle on the environment.",
+        "image": "http://127.0.0.1:5000/images/home/Eco_Friendly_Laundry_Detergent.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Biodegradable Trash Bags",
+        "category": "Home",
+        "price": "$19.99",
+        "details": "Set of 50 biodegradable trash bags that break down naturally, reducing waste.",
+        "image": "http://127.0.0.1:5000/images/home/Biodegradable_Trash_Bags.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Natural Jute Area Rug",
+        "category": "Home",
+        "price": "$129.99",
+        "details": "Durable and eco-friendly jute rug, adding warmth and texture to your living room.",
+        "image": "http://127.0.0.1:5000/images/home/Natural_Jute_Area_Rug.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Upcycled Wood Coffee Table",
+        "category": "Home",
+        "price": "$199.99",
+        "details": "Stylish coffee table made from upcycled wood, perfect for a sustainable home.",
+        "image": "http://127.0.0.1:5000/images/home/Upcycled_Wood_Coffee_Table.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Sustainable Bamboo Shower Curtain",
+        "category": "Home",
+        "price": "$29.99",
+        "details": "Waterproof shower curtain made from bamboo fabric, offering a sustainable option for your bathroom.",
+        "image": "http://127.0.0.1:5000/images/home/Sustainable_Bamboo_Shower_Curtain.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Eco-Friendly Reusable Food Wraps",
+        "category": "Home",
+        "price": "$13.99",
+        "details": "Set of reusable food wraps made from organic cotton and beeswax, replacing plastic wraps.",
+        "image": "http://127.0.0.1:5000/images/home/Eco_Friendly_Reusable_Food_Wraps.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Paper Wallpaper",
+        "category": "Home",
+        "price": "$39.99",
+        "details": "Sustainable wallpaper made from 100% recycled paper, perfect for eco-conscious home decor.",
+        "image": "http://127.0.0.1:5000/images/home/Recycled_Paper_Wallpaper.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Cork Yoga Mat",
+        "category": "Home",
+        "price": "$45.99",
+        "details": "Non-toxic, eco-friendly yoga mat made from natural cork and TPE material.",
+        "image": "http://127.0.0.1:5000/images/home/Cork_Yoga_Mat.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Hemp Rope Pendant Light",
+        "category": "Home",
+        "price": "$59.99",
+        "details": "Sustainable pendant light fixture made from hemp rope, ideal for adding a rustic touch to your home.",
+        "image": "http://127.0.0.1:5000/images/home/Hemp_Rope_Pendant_Light.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Handmade Ceramic Planters",
+        "category": "Home",
+        "price": "$22.99",
+        "details": "Beautiful handmade ceramic planters, perfect for growing your indoor plants sustainably.",
+        "image": "http://127.0.0.1:5000/images/home/Handmade_Ceramic_Planters.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Plastic Outdoor Furniture",
+        "category": "Home",
+        "price": "$399.99",
+        "details": "Eco-friendly outdoor furniture made from 100% recycled plastic, perfect for patios and gardens.",
+        "image": "http://127.0.0.1:5000/images/home/Recycled_Plastic_Outdoor_Furniture.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Bamboo Mattress Protector",
+        "category": "Home",
+        "price": "$39.99",
+        "details": "Eco-friendly bamboo mattress protector that is breathable and hypoallergenic.",
+        "image": "http://127.0.0.1:5000/images/home/Bamboo_Mattress_Protector.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Natural Soy Wax Melts",
+        "category": "Home",
+        "price": "$9.99",
+        "details": "Scented soy wax melts made from natural ingredients, perfect for creating a relaxing ambiance.",
+        "image": "http://127.0.0.1:5000/images/home/Natural_Soy_Wax_Melts.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Eco-Friendly Bathroom Cleaner",
+        "category": "Home",
+        "price": "$7.99",
+        "details": "All-natural, plant-based bathroom cleaner that is safe for both your home and the environment.",
+        "image": "http://127.0.0.1:5000/images/home/Eco_Friendly_Bathroom_Cleaner.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Wood Picture Frames",
+        "category": "Home",
+        "price": "$15.99",
+        "details": "Eco-conscious picture frames made from reclaimed wood, perfect for framing your memories.",
+        "image": "http://127.0.0.1:5000/images/home/Recycled_Wood_Picture_Frames.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Sustainable Cotton Laundry Basket",
+        "category": "Home",
+        "price": "$24.99",
+        "details": "Eco-friendly laundry basket made from sustainable cotton, perfect for organizing your laundry.",
+        "image": "http://127.0.0.1:5000/images/home/Sustainable_Cotton_Laundry_Basket.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Handwoven Seagrass Storage Baskets",
+        "category": "Home",
+        "price": "$32.99",
+        "details": "Stylish and eco-friendly storage baskets made from handwoven seagrass, perfect for home organization.",
+        "image": "http://127.0.0.1:5000/images/home/Handwoven_Seagrass_Storage_Baskets.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Bamboo Bathroom Accessories Set",
+        "category": "Home",
+        "price": "$21.99",
+        "details": "Sustainable bamboo bathroom accessories set, including a toothbrush holder, soap dish, and more.",
+        "image": "http://127.0.0.1:5000/images/home/Bamboo_Bathroom_Accessories_Set.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Cotton Floor Cushions",
+        "category": "Home",
+        "price": "$49.99",
+        "details": "Soft and comfortable floor cushions made from organic cotton, perfect for adding eco-friendly seating to your living room.",
+        "image": "http://127.0.0.1:5000/images/home/Organic_Cotton_Floor_Cushions.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Sustainable Bamboo Flooring",
+        "category": "Home",
+        "price": "$6.99/sq ft",
+        "details": "Durable and eco-friendly bamboo flooring, offering a stylish and sustainable option for your home.",
+        "image": "http://127.0.0.1:5000/images/home/Sustainable_Bamboo_Flooring.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Plastic Garden Planters",
+        "category": "Home",
+        "price": "$18.99",
+        "details": "Eco-friendly garden planters made from recycled plastic, ideal for growing your outdoor plants sustainably.",
+        "image": "http://127.0.0.1:5000/images/home/Recycled_Plastic_Garden_Planters.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Bamboo Soap Dish",
+        "category": "Home",
+        "price": "$8.99",
+        "details": "Sustainable bamboo soap dish that keeps your soap dry and extends its lifespan.",
+        "image": "http://127.0.0.1:5000/images/home/Bamboo_Soap_Dish.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Cotton T-Shirt",
+        "category": "Clothing",
+        "price": "$19.99",
+        "details": "Made from 100% organic cotton. Soft, breathable, and eco-friendly.",
+        "image": "http://127.0.0.1:5000/images/clothing/Organic_Cotton_T_Shirt.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Hemp Linen Shirt",
+        "category": "Clothing",
+        "price": "$34.99",
+        "details": "Lightweight hemp linen shirt, sustainably made. Perfect for summer.",
+        "image": "http://127.0.0.1:5000/images/clothing/Hemp_Linen_Shirt.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Denim Jeans",
+        "category": "Clothing",
+        "price": "$49.99",
+        "details": "Jeans made from 80% recycled denim. Durable and stylish.",
+        "image": "http://127.0.0.1:5000/images/clothing/Recycled_Denim_Jeans.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Wool Sweater",
+        "category": "Clothing",
+        "price": "$59.99",
+        "details": "Warm sweater made from organic wool. Ethically sourced and cozy.",
+        "image": "http://127.0.0.1:5000/images/clothing/Organic_Wool_Sweater.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Bamboo Fiber Hoodie",
+        "category": "Clothing",
+        "price": "$39.99",
+        "details": "Soft hoodie made from bamboo fiber. Moisture-wicking and eco-friendly.",
+        "image": "http://127.0.0.1:5000/images/clothing/Bamboo_Fiber_Hoodie.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Cotton Dress",
+        "category": "Clothing",
+        "price": "$29.99",
+        "details": "Elegant dress made from 100% organic cotton. Comfortable and sustainable.",
+        "image": "http://127.0.0.1:5000/images/clothing/Organic_Cotton_Dress.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Recycled Polyester Jacket",
+        "category": "Clothing",
+        "price": "$69.99",
+        "details": "Water-resistant jacket made from recycled polyester. Great for outdoor adventures.",
+        "image": "http://127.0.0.1:5000/images/clothing/Recycled_Polyester_Jacket.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Cotton Socks",
+        "category": "Clothing",
+        "price": "$9.99",
+        "details": "Pack of 3 pairs of organic cotton socks. Soft and breathable.",
+        "image": "http://127.0.0.1:5000/images/clothing/Organic_Cotton_Socks.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Hemp Cargo Pants",
+        "category": "Clothing",
+        "price": "$44.99",
+        "details": "Durable cargo pants made from hemp. Multiple pockets and eco-friendly.",
+        "image": "http://127.0.0.1:5000/images/clothing/Hemp_Cargo_Pants.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Cotton Beanie",
+        "category": "Clothing",
+        "price": "$14.99",
+        "details": "Warm beanie made from recycled cotton. Perfect for cold weather.",
+        "image": "http://127.0.0.1:5000/images/clothing/Recycled_Cotton_Beanie.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Linen Scarf",
+        "category": "Clothing",
+        "price": "$24.99",
+        "details": "Lightweight scarf made from organic linen. Elegant and sustainable.",
+        "image": "http://127.0.0.1:5000/images/clothing/Organic_Linen_Scarf.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Eco-Friendly Yoga Pants",
+        "category": "Clothing",
+        "price": "$34.99",
+        "details": "Stretchable yoga pants made from sustainable materials.",
+        "image": "http://127.0.0.1:5000/images/clothing/Eco_Friendly_Yoga_Pants.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Cotton Pajama Set",
+        "category": "Clothing",
+        "price": "$39.99",
+        "details": "Soft pajama set made from 100% organic cotton. Perfect for a good night's sleep.",
+        "image": "http://127.0.0.1:5000/images/clothing/Organic_Cotton_Pajama_Set.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Wool Scarf",
+        "category": "Clothing",
+        "price": "$19.99",
+        "details": "Warm scarf made from recycled wool. Eco-friendly and stylish.",
+        "image": "http://127.0.0.1:5000/images/clothing/Recycled_Wool_Scarf.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Hemp Bucket Hat",
+        "category": "Clothing",
+        "price": "$17.99",
+        "details": "Durable bucket hat made from hemp fabric. Perfect for sunny days.",
+        "image": "http://127.0.0.1:5000/images/clothing/Hemp_Bucket_Hat.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Eco-Friendly Raincoat",
+        "category": "Clothing",
+        "price": "$59.99",
+        "details": "Raincoat made from recycled materials. Waterproof and stylish.",
+        "image": "http://127.0.0.1:5000/images/clothing/Eco_Friendly_Raincoat.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Cotton Leggings",
+        "category": "Clothing",
+        "price": "$29.99",
+        "details": "Comfortable leggings made from organic cotton. Perfect for casual wear.",
+        "image": "http://127.0.0.1:5000/images/clothing/Organic_Cotton_Leggings.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Fleece Jacket",
+        "category": "Clothing",
+        "price": "$54.99",
+        "details": "Warm fleece jacket made from recycled materials. Perfect for cold weather.",
+        "image": "http://127.0.0.1:5000/images/clothing/Recycled_Fleece_Jacket.jpg",
+        "best_seller": true
     }
 ]
