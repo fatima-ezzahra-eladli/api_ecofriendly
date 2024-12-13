@@ -34,6 +34,11 @@ def get_best_sellers():
 # Route pour servir les images
 @app.route('/images/<path:filename>', methods=['GET'])
 def serve_image(filename):
+    # Si l'image appartient à une catégorie avec sous-dossier (par exemple, home, garden, etc.)
+    if '/' in filename:
+        return send_from_directory(os.path.join(app.root_path, 'images'), filename)
+    
+    # Si l'image ne contient pas de sous-dossier (par exemple, beauty, toys, etc.)
     return send_from_directory(os.path.join(app.root_path, 'images'), filename)
 
 # Démarrer l'application
