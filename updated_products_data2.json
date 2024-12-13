@@ -1,0 +1,435 @@
+[
+    
+    {
+        "name": "Organic Face Cream",
+        "category": "Beauty",
+        "price": "$29.99",
+        "details": "Nourishing face cream made with organic ingredients to hydrate and protect the skin.",
+        "image": "http://127.0.0.1:5000/images/organic_face_cream.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Bamboo Charcoal Soap",
+        "category": "Beauty",
+        "price": "$14.99",
+        "details": "Gentle exfoliating soap made with bamboo charcoal for a fresh, clean feel.",
+        "image": "http://127.0.0.1:5000/images/bamboo_charcoal_soap.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Lavender Essential Oil",
+        "category": "Beauty",
+        "price": "$19.99",
+        "details": "Organic lavender oil for relaxation, soothing the skin, and promoting restful sleep.",
+        "image": "http://127.0.0.1:5000/images/lavender_essential_oil.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Coconut Oil Hair Mask",
+        "category": "Beauty",
+        "price": "$22.99",
+        "details": "Deep conditioning hair mask enriched with organic coconut oil to hydrate and strengthen hair.",
+        "image": "http://127.0.0.1:5000/images/coconut_oil_hair_mask.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Aloe Vera Gel",
+        "category": "Beauty",
+        "price": "$12.99",
+        "details": "Pure aloe vera gel for soothing sunburns and moisturizing skin.",
+        "image": "http://127.0.0.1:5000/images/aloe_vera_gel.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Lip Balm",
+        "category": "Beauty",
+        "price": "$7.99",
+        "details": "All-natural lip balm made with beeswax and essential oils to nourish and protect lips.",
+        "image": "http://127.0.0.1:5000/images/organic_lip_balm.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Tea Tree Face Wash",
+        "category": "Beauty",
+        "price": "$18.99",
+        "details": "Refreshing face wash made with tea tree oil to cleanse and purify the skin.",
+        "image": "http://127.0.0.1:5000/images/tea_tree_face_wash.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Rose Water Toner",
+        "category": "Beauty",
+        "price": "$16.99",
+        "details": "Hydrating rose water toner to balance and refresh the skin.",
+        "image": "http://127.0.0.1:5000/images/rose_water_toner.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Eco-Friendly Makeup Remover",
+        "category": "Beauty",
+        "price": "$11.99",
+        "details": "Gentle, plant-based makeup remover that effortlessly cleanses without harsh chemicals.",
+        "image": "http://127.0.0.1:5000/images/eco-friendly_makeup_remover.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Beeswax Face Mask",
+        "category": "Beauty",
+        "price": "$24.99",
+        "details": "Revitalizing beeswax face mask that restores moisture and promotes healthy skin.",
+        "image": "http://127.0.0.1:5000/images/beeswax_face_mask.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Face Cream",
+        "category": "Beauty",
+        "price": "$29.99",
+        "details": "Nourishing face cream made with organic ingredients to hydrate and protect the skin.",
+        "image": "http://127.0.0.1:5000/images/organic_face_cream.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Bamboo Charcoal Soap",
+        "category": "Beauty",
+        "price": "$14.99",
+        "details": "Gentle exfoliating soap made with bamboo charcoal for a fresh, clean feel.",
+        "image": "http://127.0.0.1:5000/images/bamboo_charcoal_soap.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Lavender Essential Oil",
+        "category": "Beauty",
+        "price": "$19.99",
+        "details": "Organic lavender oil for relaxation, soothing the skin, and promoting restful sleep.",
+        "image": "http://127.0.0.1:5000/images/lavender_essential_oil.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Coconut Oil Hair Mask",
+        "category": "Beauty",
+        "price": "$22.99",
+        "details": "Deep conditioning hair mask enriched with organic coconut oil to hydrate and strengthen hair.",
+        "image": "http://127.0.0.1:5000/images/coconut_oil_hair_mask.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Aloe Vera Gel",
+        "category": "Beauty",
+        "price": "$12.99",
+        "details": "Pure aloe vera gel for soothing sunburns and moisturizing skin.",
+        "image": "http://127.0.0.1:5000/images/aloe_vera_gel.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Lip Balm",
+        "category": "Beauty",
+        "price": "$7.99",
+        "details": "All-natural lip balm made with beeswax and essential oils to nourish and protect lips.",
+        "image": "http://127.0.0.1:5000/images/organic_lip_balm.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Tea Tree Face Wash",
+        "category": "Beauty",
+        "price": "$18.99",
+        "details": "Refreshing face wash made with tea tree oil to cleanse and purify the skin.",
+        "image": "http://127.0.0.1:5000/images/tea_tree_face_wash.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Rose Water Toner",
+        "category": "Beauty",
+        "price": "$16.99",
+        "details": "Hydrating rose water toner to balance and refresh the skin.",
+        "image": "http://127.0.0.1:5000/images/rose_water_toner.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Eco-Friendly Makeup Remover",
+        "category": "Beauty",
+        "price": "$11.99",
+        "details": "Gentle, plant-based makeup remover that effortlessly cleanses without harsh chemicals.",
+        "image": "http://127.0.0.1:5000/images/eco-friendly_makeup_remover.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Beeswax Face Mask",
+        "category": "Beauty",
+        "price": "$24.99",
+        "details": "Revitalizing beeswax face mask that restores moisture and promotes healthy skin.",
+        "image": "http://127.0.0.1:5000/images/beeswax_face_mask.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Shampoo Bar",
+        "category": "Beauty",
+        "price": "$19.99",
+        "details": "Eco-friendly shampoo bar made with natural oils and ingredients to nourish your hair.",
+        "image": "http://127.0.0.1:5000/images/organic_shampoo_bar.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Natural Hair Serum",
+        "category": "Beauty",
+        "price": "$27.99",
+        "details": "Serum made with organic oils to nourish and add shine to hair.",
+        "image": "http://127.0.0.1:5000/images/natural_hair_serum.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Aloe Vera Shampoo",
+        "category": "Beauty",
+        "price": "$23.99",
+        "details": "Gentle, sulfate-free shampoo made with organic aloe vera to soothe the scalp.",
+        "image": "http://127.0.0.1:5000/images/organic_aloe_vera_shampoo.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Coconut Body Butter",
+        "category": "Beauty",
+        "price": "$21.99",
+        "details": "Rich body butter made with coconut oil to deeply moisturize and soften the skin.",
+        "image": "http://127.0.0.1:5000/images/coconut_body_butter.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Rosehip Oil",
+        "category": "Beauty",
+        "price": "$28.99",
+        "details": "Pure organic rosehip oil to hydrate and rejuvenate skin with its natural healing properties.",
+        "image": "http://127.0.0.1:5000/images/organic_rosehip_oil.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Natural Clay Face Mask",
+        "category": "Beauty",
+        "price": "$17.99",
+        "details": "Detoxifying clay mask made with natural ingredients to clear the pores and refresh the skin.",
+        "image": "http://127.0.0.1:5000/images/natural_clay_face_mask.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Face Serum",
+        "category": "Beauty",
+        "price": "$34.99",
+        "details": "Anti-aging face serum made with organic ingredients to smooth and firm the skin.",
+        "image": "http://127.0.0.1:5000/images/organic_face_serum.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Eco-Friendly Nail Polish",
+        "category": "Beauty",
+        "price": "$9.99",
+        "details": "Non-toxic, eco-friendly nail polish with a variety of colors to choose from.",
+        "image": "http://127.0.0.1:5000/images/eco-friendly_nail_polish.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Herbal Bath Salts",
+        "category": "Beauty",
+        "price": "$15.99",
+        "details": "Relaxing bath salts made with a blend of natural herbs and minerals to soothe the body.",
+        "image": "http://127.0.0.1:5000/images/herbal_bath_salts.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Facial Cleanser",
+        "category": "Beauty",
+        "price": "$20.99",
+        "details": "Mild facial cleanser made with organic ingredients to remove dirt without drying out skin.",
+        "image": "http://127.0.0.1:5000/images/organic_facial_cleanser.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Bamboo Toothbrush",
+        "category": "Beauty",
+        "price": "$5.99",
+        "details": "Eco-friendly bamboo toothbrush with soft bristles for a sustainable and gentle cleaning.",
+        "image": "http://127.0.0.1:5000/images/bamboo_toothbrush.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Vegan Lipstick",
+        "category": "Beauty",
+        "price": "$12.99",
+        "details": "Cruelty-free, vegan lipstick with vibrant colors that nourish lips.",
+        "image": "http://127.0.0.1:5000/images/vegan_lipstick.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Eco-Friendly Wooden Blocks Set",
+        "category": "Toys",
+        "price": "$24.99",
+        "details": "A set of sustainable wooden blocks, perfect for creative play and building skills.",
+        "image": "http://127.0.0.1:5000/images/eco-friendly_wooden_blocks_set.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Organic Cotton Plush Bear",
+        "category": "Toys",
+        "price": "$19.99",
+        "details": "Soft and cuddly bear made from organic cotton, perfect for babies and toddlers.",
+        "image": "http://127.0.0.1:5000/images/organic_cotton_plush_bear.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Recycled Plastic Playset",
+        "category": "Toys",
+        "price": "$39.99",
+        "details": "A fun and educational playset made from recycled plastic, designed for durability and safety.",
+        "image": "http://127.0.0.1:5000/images/recycled_plastic_playset.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Wooden Train Set with Natural Paint",
+        "category": "Toys",
+        "price": "$49.99",
+        "details": "Classic wooden train set painted with non-toxic, natural paint, great for imaginative play.",
+        "image": "http://127.0.0.1:5000/images/wooden_train_set_with_natural_paint.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Rubber Bouncing Ball",
+        "category": "Toys",
+        "price": "$12.99",
+        "details": "Durable and fun bouncing ball made from 100% recycled rubber.",
+        "image": "http://127.0.0.1:5000/images/recycled_rubber_bouncing_ball.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Biodegradable Play Dough Set",
+        "category": "Toys",
+        "price": "$14.99",
+        "details": "Play dough made from biodegradable ingredients, safe for little hands and the environment.",
+        "image": "http://127.0.0.1:5000/images/biodegradable_play_dough_set.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Cotton Doll Clothes Set",
+        "category": "Toys",
+        "price": "$19.99",
+        "details": "A set of eco-friendly doll clothes made from organic cotton, suitable for 18-inch dolls.",
+        "image": "http://127.0.0.1:5000/images/organic_cotton_doll_clothes_set.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Wooden Puzzle Set with Plant-Based Ink",
+        "category": "Toys",
+        "price": "$17.99",
+        "details": "A set of puzzles made from sustainable wood and printed with plant-based ink.",
+        "image": "http://127.0.0.1:5000/images/wooden_puzzle_set_with_plant-based_ink.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Recycled Plastic Toy Cars",
+        "category": "Toys",
+        "price": "$11.99",
+        "details": "Toy cars made from recycled plastic, designed to be durable and safe for children.",
+        "image": "http://127.0.0.1:5000/images/recycled_plastic_toy_cars.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Sustainable Wooden Dollhouse",
+        "category": "Toys",
+        "price": "$99.99",
+        "details": "Eco-friendly dollhouse made from sustainable wood, featuring non-toxic finishes.",
+        "image": "http://127.0.0.1:5000/images/sustainable_wooden_dollhouse.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Eco-Friendly Beach Toys Set",
+        "category": "Toys",
+        "price": "$21.99",
+        "details": "A set of beach toys made from biodegradable materials, perfect for outdoor play.",
+        "image": "http://127.0.0.1:5000/images/eco-friendly_beach_toys_set.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Recycled Fabric Soft Toy Elephant",
+        "category": "Toys",
+        "price": "$24.99",
+        "details": "A soft and safe toy elephant made from recycled fabrics, perfect for young children.",
+        "image": "http://127.0.0.1:5000/images/recycled_fabric_soft_toy_elephant.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Wooden Animal Figurines Set",
+        "category": "Toys",
+        "price": "$29.99",
+        "details": "A set of handcrafted wooden animal figurines, each made from sustainable wood.",
+        "image": "http://127.0.0.1:5000/images/wooden_animal_figurines_set.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Sustainable Fabric Bean Bag",
+        "category": "Toys",
+        "price": "$79.99",
+        "details": "Bean bag filled with eco-friendly, sustainable fabric and stuffed with natural filling.",
+        "image": "http://127.0.0.1:5000/images/sustainable_fabric_bean_bag.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Organic Cotton Baby Rattle",
+        "category": "Toys",
+        "price": "$9.99",
+        "details": "A soft baby rattle made from organic cotton, perfect for infants.",
+        "image": "http://127.0.0.1:5000/images/organic_cotton_baby_rattle.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Wooden Stacking Toy",
+        "category": "Toys",
+        "price": "$18.99",
+        "details": "A classic wooden stacking toy, made from sustainable materials and non-toxic finishes.",
+        "image": "http://127.0.0.1:5000/images/wooden_stacking_toy.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Recycled Plastic Toy Blocks",
+        "category": "Toys",
+        "price": "$26.99",
+        "details": "Building blocks made from recycled plastic, designed to be both durable and safe for children.",
+        "image": "http://127.0.0.1:5000/images/recycled_plastic_toy_blocks.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Natural Rubber Baby Teething Toy",
+        "category": "Toys",
+        "price": "$12.99",
+        "details": "A safe and non-toxic baby teething toy made from 100% natural rubber.",
+        "image": "http://127.0.0.1:5000/images/natural_rubber_baby_teething_toy.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Eco-Friendly Wooden Drum",
+        "category": "Toys",
+        "price": "$29.99",
+        "details": "A wooden drum made from sustainable materials, designed to introduce children to rhythm.",
+        "image": "http://127.0.0.1:5000/images/eco-friendly_wooden_drum.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Bamboo Play Kitchen Set",
+        "category": "Toys",
+        "price": "$129.99",
+        "details": "A toy kitchen set made from sustainable bamboo, perfect for imaginative cooking play.",
+        "image": "http://127.0.0.1:5000/images/bamboo_play_kitchen_set.jpg",
+        "best_seller": true
+    },
+    {
+        "name": "Recycled Plastic Building Blocks",
+        "category": "Toys",
+        "price": "$22.99",
+        "details": "Building blocks made from recycled plastic, designed for young builders.",
+        "image": "http://127.0.0.1:5000/images/recycled_plastic_building_blocks.jpg",
+        "best_seller": false
+    },
+    {
+        "name": "Wooden Toy Car Set",
+        "category": "Toys",
+        "price": "$17.99",
+        "details": "A set of eco-friendly wooden toy cars, designed for endless hours of play.",
+        "image": "http://127.0.0.1:5000/images/wooden_toy_car_set.jpg",
+        "best_seller": true
+    }
+]
