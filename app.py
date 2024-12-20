@@ -1,4 +1,4 @@
-from flask import Flask, jsonify, send_from_directory
+from flask import Flask, jsonify, send_from_directory, request
 from flask_cors import CORS
 import os
 import json
@@ -11,12 +11,21 @@ CORS(app)
 with open('updated_products_data2.json', 'r') as f:
     products_data = json.load(f)
 
-# Route pour obtenir tous les produits
+# Route pour obtenir tous les produits ou filtrer par nom
 @app.route('/api/products', methods=['GET'])
 def get_products():
+    # Récupérer le paramètre 'name' de la requête GET
+    query = request.args.get('name', '').lower()
+
+    # Filtrer les produits si un nom est fourni
+    if query:
+        filtered_products = [product for product in products_data if query in product['name'].lower()]
+        return jsonify(filtered_products)
+
+    # Retourner tous les produits si aucun paramètre n'est fourni
     return jsonify(products_data)
 
-# Route pour obtenir un produit par son nom
+# Route pour obtenir un produit par son nom exact
 @app.route('/api/products/<string:name>', methods=['GET'])
 def get_product_by_name(name):
     product = next((product for product in products_data if product['name'].lower() == name.lower()), None)
@@ -28,7 +37,7 @@ def get_product_by_name(name):
 # Route pour obtenir les produits best-sellers
 @app.route('/api/products/best_sellers', methods=['GET'])
 def get_best_sellers():
-    best_sellers = [product for product in products_data if product['best_seller']]
+    best_sellers = [product for product in products_data if product.get('best_seller')]
     return jsonify(best_sellers)
 
 # Route pour servir les images
